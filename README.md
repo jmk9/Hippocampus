@@ -8,4 +8,5 @@ Data link
 > https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images
 <br/>
 이 project를 정리한 notion이 있음.<br/>
+
 > https://www.notion.so/Hippocampus-Segmentation-2a3554887234459c979ad24a75376986
